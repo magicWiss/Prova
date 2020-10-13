@@ -11,7 +11,8 @@ public namespace Prova
 
 		public void main()
 		{
-				printf("ddddd");
+				int x=0;
+				printf(x+1);
 		}
 
 	}
