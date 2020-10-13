@@ -1,0 +1,3 @@
+prova 2
+
+scanf(&d,x);
